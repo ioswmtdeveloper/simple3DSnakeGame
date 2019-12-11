@@ -21,8 +21,8 @@ I used  <a href="http://mrdoob.github.io/three.js/" target="_blank">ThreeJS API<
 <br>
 <b>Screenshots</b>:
 <br>
-<img src="http://www.techjini.com/blog/wp-content/uploads/2013/04/Snake_Game_1.png">
+<img src="https://github.com/ioswmtdeveloper/simple3DSnakeGame/blob/master/Snake-Game-1.png?raw=true">
 <br><br>
-<img src="http://www.techjini.com/blog/wp-content/uploads/2013/04/Snake_Game_2.png">
+<img src="https://github.com/ioswmtdeveloper/simple3DSnakeGame/blob/master/Snake-Game-2.png?raw=true">
 <br>
 -<a href="http://www.techjini.com/blog/author/samir/" target="_blank">Samir Solanki</a>
